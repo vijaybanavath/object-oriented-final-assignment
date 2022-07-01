@@ -1,0 +1,2 @@
+Refactoring Type	Source Entity	Target Class	Source/Target accessed members	Rate it!
+Move Method	org.dew.fhir.server.FHIRServlet::send(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse, org.dew.fhir.services.FHIRRequest, org.dew.fhir.services.FHIRResponse):void	org.dew.fhir.services.FHIRRequest	2/3	
